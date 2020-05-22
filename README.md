@@ -2,14 +2,13 @@
 
 ## Weekly Sessions 
 * Wednesday: 6:30pm-8:30pm
----
+
 ## Weekly Tutorial Sessions 
 * Thursday: 6:30pm-9:30pm
 * Monday: 3:30pm-6:00pm
-
-
+---
 ## Instructor Sven Travis
-### Sven’s helpers
+### Sven’s TAs 
 * Mary Ann Badavi, Sohee Cho, Anna Garbier, Shirley Leung, Jason Li, Franzi Mack, Jill Shah, Fifi Xie, Lan Zhang, &  Karen El Asmar
 
 
