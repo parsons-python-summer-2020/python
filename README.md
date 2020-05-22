@@ -1,11 +1,11 @@
 # Summer Python 2020
 
 ## Weekly Sessions 
-* Wednesday: 6:30pm-8:30pm
+* Wednesday: 6:30pm-9:00pm EST 
 
 ## Weekly Tutorial Sessions 
-* Thursday: 6:30pm-9:30pm
-* Monday: 3:30pm-6:00pm
+* Thursday: 6:30pm-9:30pm EST 
+* Monday: 3:30pm-6:00pm EST 
 ---
 ## Instructor Sven Travis
 ### Sven’s TAs 
