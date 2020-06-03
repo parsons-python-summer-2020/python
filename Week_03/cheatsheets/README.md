@@ -1,1 +1,1 @@
-# Commented notebooks with basic information, listed textbook-style. 
+# Commented notebooks with basic information, presented textbook-style. 
