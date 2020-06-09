@@ -1,0 +1,99 @@
+raw_row_number,date,time,location,lat,lng,beat,subject_age,subject_race,subject_sex,officer_assignment,type,arrest_made,citation_issued,warning_issued,outcome,contraband_found,contraband_drugs,contraband_weapons,search_conducted,search_basis,reason_for_stop,use_of_force_description,raw_subject_sdrace,raw_subject_resultofencounter,raw_subject_searchconducted,raw_subject_typeofsearch,raw_subject_resultofsearch
+17213,NA,01:33:00,E. 28th St. & Park BLVD,37.803084000000005,-122.2372469,NA,NA,asian/pacific islander,female,NA,vehicular,FALSE,TRUE,FALSE,citation,NA,NA,NA,FALSE,NA,Traffic Violation,NA,A,"Citation,",No,NA,NA
+17214,NA,14:48:00,1759 SEMINARY AV,37.7675677,-122.19682040000002,NA,NA,black,male,NA,NA,FALSE,FALSE,FALSE,NA,FALSE,FALSE,FALSE,TRUE,other,Probation/Parole,NA,B,"FI Report,",Yes,"Prob./Parole,",NA
+1,2013-04-01,00:00:00,31st St And Mlk Jr Way,37.820598499999996,-122.27073429999999,NA,NA,white,male,NA,vehicular,FALSE,FALSE,TRUE,warning,FALSE,FALSE,FALSE,TRUE,other,Traffic Violation,NA,W,"Warning,",Yes,"Prob./Parole,",NA
+2,2013-04-01,00:01:00,3000 Block Of San Pablo Ave,37.8212456,-122.2764876,NA,NA,black,male,NA,vehicular,FALSE,FALSE,FALSE,NA,NA,NA,NA,FALSE,NA,Traffic Violation,NA,B,"FI Report,",No,NA,NA
+19,2013-04-01,10:41:00,12th St/Broadway,37.802937299999996,-122.2717384,NA,NA,hispanic,female,NA,NA,FALSE,TRUE,FALSE,citation,NA,NA,NA,FALSE,NA,Probable Cause,NA,H,"Citation,",No,NA,NA
+20,2013-04-01,14:18:00,2100 WEST ST,37.8121989,-122.27638789999999,NA,NA,white,male,NA,vehicular,FALSE,FALSE,FALSE,NA,NA,NA,NA,FALSE,NA,Traffic Violation,NA,W,"FI Report,",No,NA,NA
+4,2013-04-01,00:15:00,2200 Blk Of Magnolia St,37.8157596,-122.2850803,NA,NA,black,male,NA,vehicular,FALSE,TRUE,FALSE,citation,FALSE,FALSE,FALSE,TRUE,other,Traffic Violation,NA,B,"Citation,",Yes,"Inventory,",NA
+21,2013-04-01,15:32:00,300 Blk Hegenberger Rd,37.73451,-122.19717,NA,NA,black,male,NA,vehicular,FALSE,FALSE,FALSE,NA,NA,NA,NA,FALSE,NA,Traffic Violation,NA,B,"FI Report,",No,NA,NA
+22,2013-04-01,15:55:00,73R D AV&INTERNATIONAL BLVD,37.759561,-122.186857,NA,NA,black,male,NA,vehicular,FALSE,TRUE,FALSE,citation,NA,NA,NA,FALSE,NA,Traffic Violation,NA,B,"Citation,",No,NA,NA
+23,2013-04-01,16:37:00,200 Blk W.MACARTHUR BLVD,37.8229491,-122.25576629999999,NA,NA,black,female,NA,NA,FALSE,FALSE,FALSE,NA,FALSE,FALSE,FALSE,TRUE,probable cause,Probable Cause,NA,B,"FI Report,",Yes,"Weapons,",NA
+24,c,37.7547161,-122.18650020000001,NA,NA,hispanic,female,NA,vehicular,FALSE,FALSE,TRUE,warning,NA,NA,NA,FALSE,NA,Traffic Violation,NA,H,"Warning,",No,NA,NA
+25,2013-04-01,17:00:00,1400 80TH AV,37.7566469,-122.18160549999999,NA,NA,black,male,NA,vehicular,FALSE,TRUE,FALSE,citation,NA,NA,NA,FALSE,NA,Traffic Violation,NA,B,"Citation,",No,NA,NA
+26,2013-04-01,18:59:00,30TH ST&MARTIN LUTHER KING JR WY,37.8196593,-122.2709728,NA,NA,black,male,NA,NA,FALSE,FALSE,FALSE,NA,NA,NA,NA,FALSE,NA,Probable Cause,NA,B,"FI Report,",No,NA,NA
+27,2013-04-01,20:04:00,1000 73RD AV,37.7556862,-122.192187,NA,NA,hispanic,female,NA,vehicular,FALSE,TRUE,FALSE,citation,NA,NA,NA,FALSE,NA,Traffic Violation,NA,H,"Citation,",No,NA,NA
+28,2013-04-01,20:52:00,700 Blk Of Center St,37.8053853,-122.29491270000001,NA,NA,white,male,NA,NA,FALSE,FALSE,FALSE,NA,FALSE,FALSE,FALSE,TRUE,other,Probable Cause,NA,W,"FI Report,",Yes,"Prob./Parole,",NA
+29,2013-04-01,21:10:00,300 GRAND AV,37.8093223,-122.25683670000001,NA,NA,white,female,NA,vehicular,FALSE,FALSE,TRUE,warning,NA,NA,NA,FALSE,NA,Traffic Violation,NA,W,"Warning,",No,NA,NA
+30,2013-04-01,21:19:00,707 39TH ST,37.8289385,-122.2703291,NA,NA,black,male,NA,NA,FALSE,FALSE,FALSE,NA,NA,NA,NA,FALSE,NA,Reasonable Suspicion,NA,B,"FI Report,",No,NA,NA
+31,2013-04-01,22:00:00,7700 INTERNATIONAL BLVD,37.758070700000005,-122.18411699999999,NA,NA,black,male,NA,vehicular,FALSE,TRUE,FALSE,citation,NA,NA,NA,FALSE,NA,Traffic Violation,NA,B,"Citation,",No,NA,NA
+32,2013-04-01,22:25:00,2100 INTERNATIONAL BLVD,37.785270000000004,-122.2385479,NA,NA,asian/pacific islander,male,NA,vehicular,FALSE,TRUE,FALSE,citation,NA,NA,NA,FALSE,NA,Traffic Violation,NA,A,"Citation,",No,NA,NA
+33,2013-04-01,22:49:00,Market St. And Mead Ave.,37.81585889999999,-122.27816029999998,NA,NA,hispanic,male,NA,vehicular,FALSE,TRUE,FALSE,citation,NA,NA,NA,FALSE,NA,Traffic Violation,NA,H,"Citation,",No,NA,NA
+34,2013-04-01,23:22:00,2100 Blk E 12th St,37.784381700000004,-122.23967820000001,NA,NA,black,male,NA,vehicular,FALSE,TRUE,FALSE,citation,NA,NA,NA,FALSE,NA,Traffic Violation,NA,B,"Citation,",No,NA,NA
+35,2013-04-01,23:31:00,3200 Blk Of Market St,37.8224084,-122.2759998,NA,NA,black,male,NA,vehicular,FALSE,TRUE,FALSE,citation,NA,NA,NA,FALSE,NA,Traffic Violation,NA,B,"Citation,",No,NA,NA
+36,2013-04-01,23:41:00,800 23RD St,37.7994864,-122.24299740000002,NA,NA,black,female,NA,NA,TRUE,FALSE,FALSE,arrest,FALSE,FALSE,FALSE,TRUE,other,Consensual Encounter,NA,B,"Misdemeanor Arrest,",Yes,"Incident to Arrest,",NA
+37,2013-04-01,23:41:00,800 23RD St,37.7994864,-122.24299740000002,NA,NA,black,male,NA,NA,FALSE,FALSE,FALSE,NA,NA,NA,NA,FALSE,NA,Consensual Encounter,NA,B,"FI Report,",No,NA,NA
+7,2013-04-01,02:35:00,37th Street And MLK Jr. Way,37.8263095,-122.26929740000001,NA,NA,black,female,NA,vehicular,FALSE,FALSE,FALSE,NA,NA,NA,NA,FALSE,NA,Traffic Violation,NA,B,"FI Report,",No,NA,NA
+8,2013-04-01,02:51:00,2700 Blk Of San Pablo Av,37.8180502,-122.27524709999999,NA,NA,black,male,NA,vehicular,FALSE,FALSE,FALSE,NA,FALSE,FALSE,FALSE,TRUE,other,Traffic Violation,NA,B,"FI Report,",Yes,"Prob./Parole,",NA
+3,2013-04-01,00:03:00,2700 Blk INTERNATIONAL BLVD,37.780883700000004,-122.23113219999999,NA,NA,black,female,NA,NA,FALSE,FALSE,FALSE,NA,NA,NA,NA,FALSE,NA,Reasonable Suspicion,NA,B,"FI Report,",No,NA,NA
+5,2013-04-01,00:31:00,West Grand Ave And West Street,37.8134529,-122.2758355,NA,NA,black,male,NA,vehicular,FALSE,FALSE,FALSE,NA,NA,NA,NA,FALSE,NA,Traffic Violation,NA,B,"FI Report,",No,NA,NA
+9,2013-04-01,03:33:00,HOWE ST&W MACARTHUR BLVD,37.8239007,-122.2573618,NA,NA,black,male,NA,vehicular,FALSE,TRUE,FALSE,citation,NA,NA,NA,FALSE,NA,Traffic Violation,NA,B,"Citation,",No,NA,NA
+6,2013-04-01,00:34:00,900blk 35th St,37.8256632,-122.2755618,NA,NA,black,male,NA,vehicular,FALSE,FALSE,TRUE,warning,NA,NA,NA,FALSE,NA,Traffic Violation,NA,B,"Warning,",No,NA,NA
+10,2013-04-01,06:24:00,1844 INTERNATIONAL BLVD,37.7867811,-122.241171,NA,NA,hispanic,male,NA,NA,FALSE,FALSE,FALSE,NA,FALSE,FALSE,FALSE,TRUE,probable cause,Probable Cause,NA,H,"FI Report,",Yes,"Weapons,",NA
+11,2013-04-01,07:56:00,WEST GRAND AVE & MANDELA PKWY,37.816688899999995,-122.2891909,NA,NA,black,male,NA,vehicular,FALSE,TRUE,FALSE,citation,NA,NA,NA,FALSE,NA,Traffic Violation,NA,B,"Citation,",No,NA,NA
+12,2013-04-01,08:31:00,7th St & Mandela Pkwy,37.80499229999999,-122.2936344,NA,NA,white,female,NA,vehicular,FALSE,FALSE,TRUE,warning,NA,NA,NA,FALSE,NA,Traffic Violation,NA,W,"Warning,",No,NA,NA
+13,2013-04-01,08:50:00,4300 TELEGRAPH AV,37.831880700000006,-122.26347609999999,NA,NA,black,female,NA,vehicular,FALSE,FALSE,FALSE,NA,NA,NA,NA,FALSE,NA,Traffic Violation,NA,B,"FI Report,",No,NA,NA
+14,2013-04-01,08:55:00,2100 Blk 5th Ave,37.8003605,-122.2469102,NA,NA,black,female,NA,vehicular,FALSE,TRUE,FALSE,citation,NA,NA,NA,FALSE,NA,Traffic Violation,NA,B,"Citation,",No,NA,NA
+16,2013-04-01,09:26:00,14TH AV&E 15TH ST,37.790182200000004,-122.2450581,NA,NA,other,male,NA,vehicular,FALSE,FALSE,FALSE,NA,NA,NA,NA,FALSE,NA,Traffic Violation,NA,O,"FI Report,",No,NA,NA
+15,2013-04-01,09:26:00,3900 TELEGRAPH AV,37.8282782,-122.2642693,NA,NA,white,male,NA,vehicular,FALSE,TRUE,FALSE,citation,NA,NA,NA,FALSE,NA,Traffic Violation,NA,W,"Citation,",No,NA,NA
+17,2013-04-01,09:50:00,WEST GRAND AVE & MARKET ST,37.814445299999996,-122.27866100000001,NA,NA,black,female,NA,vehicular,FALSE,TRUE,FALSE,citation,NA,NA,NA,FALSE,NA,Traffic Violation,NA,B,"Citation,",No,NA,NA
+18,2013-04-01,09:52:00,12th St/Alice St,37.801072,-122.2672926,NA,NA,black,male,NA,NA,FALSE,TRUE,FALSE,citation,NA,NA,NA,FALSE,NA,Probable Cause,NA,B,"Citation,",No,NA,NA
+48,2013-04-02,10:00:00,3700 Blk 39th Ave,37.790289200000004,-122.19527169999999,NA,NA,black,male,NA,vehicular,FALSE,TRUE,FALSE,citation,NA,NA,NA,FALSE,NA,Traffic Violation,NA,B,"Citation,",No,NA,NA
+49,2013-04-02,10:23:00,7TH ST & MANDELA PKWY,37.80499229999999,-122.2936344,NA,NA,other,male,NA,vehicular,FALSE,FALSE,TRUE,warning,NA,NA,NA,FALSE,NA,Traffic Violation,NA,O,"Warning,",No,NA,NA
+50|51,2013-04-02,10:35:00,4000 BROADWAY,37.827611,-122.2562828,NA,NA,black,male,NA,NA,FALSE,TRUE,FALSE,citation,NA,NA,NA,FALSE,NA,Probable Cause,NA,B,"Citation,",No,NA,NA
+52,2013-04-02,10:40:00,1465 Seminary Ave,37.766074200000006,-122.19845690000001,NA,NA,hispanic,male,NA,NA,FALSE,FALSE,FALSE,NA,NA,NA,NA,FALSE,NA,Consensual Encounter,NA,H,"FI Report,",No,NA,NA
+53,2013-04-02,10:50:00,2000  Blk 11th Ave,37.7953196,-122.243316,NA,NA,black,male,NA,vehicular,FALSE,TRUE,FALSE,citation,NA,NA,NA,FALSE,NA,Traffic Violation,NA,B,"Citation,",No,NA,NA
+54,2013-04-02,10:53:00,2300 82ND AV,37.7608247,-122.1684628,NA,NA,black,female,NA,vehicular,FALSE,FALSE,TRUE,warning,NA,NA,NA,FALSE,NA,Traffic Violation,NA,B,"Warning,",No,NA,NA
+55,2013-04-02,11:12:00,IFO 414 13th St,37.8035032,-122.27073770000001,NA,NA,black,male,NA,NA,FALSE,TRUE,FALSE,citation,NA,NA,NA,FALSE,NA,Probable Cause,NA,B,"Citation,",No,NA,NA
+56,2013-04-02,11:26:00,7TH ST & MAGNOLIA ST ST,37.8040296,-122.2893065,NA,NA,black,male,NA,vehicular,FALSE,TRUE,FALSE,citation,NA,NA,NA,FALSE,NA,Traffic Violation,NA,B,"Citation,",No,NA,NA
+57,2013-04-02,11:32:00,471 DOUGLAS AV,37.731723200000005,-122.18207720000001,NA,NA,black,male,NA,NA,FALSE,FALSE,FALSE,NA,NA,NA,NA,FALSE,NA,Probable Cause,NA,B,"FI Report,",No,NA,NA
+58|59,2013-04-02,11:39:00,9700 Blk Empire Rd,37.7317526,-122.19336650000001,NA,NA,black,male,NA,NA,TRUE,FALSE,FALSE,arrest,FALSE,FALSE,FALSE,TRUE,other,Probable Cause,NA,B,"FI Report,|Felony Arrest,",No|Yes,"NA|Incident to Arrest,",NA
+60,2013-04-02,12:36:00,3400 MARTIN LUTHER KING JR WY,37.823397799999995,-122.27002399999999,NA,NA,black,male,NA,NA,TRUE,FALSE,FALSE,arrest,FALSE,FALSE,FALSE,TRUE,other,Reasonable Suspicion,NA,B,"Felony Arrest,",Yes,"Incident to Arrest,",NA
+61,2013-04-02,12:47:00,7th St & Magnolia St,37.8040296,-122.2893065,NA,NA,black,male,NA,vehicular,FALSE,TRUE,FALSE,citation,NA,NA,NA,FALSE,NA,Traffic Violation,NA,B,"Citation,",No,NA,NA
+62,2013-04-02,13:00:00,4578 International Blvd,37.771102899999995,-122.21172790000001,NA,NA,other,male,NA,NA,TRUE,FALSE,FALSE,arrest,FALSE,FALSE,FALSE,TRUE,other,Consensual Encounter,NA,O,"Felony Arrest,",Yes,"Incident to Arrest,",NA
+63,2013-04-02,13:05:00,1300 BLK BROADWAY,37.8036623,-122.27128429999999,NA,NA,black,male,NA,NA,FALSE,TRUE,FALSE,citation,NA,NA,NA,FALSE,NA,Reasonable Suspicion,NA,B,"Citation,",No,NA,NA
+64,2013-04-02,13:33:00,1500 Jefferson St,37.8064342,-122.2743453,NA,NA,hispanic,male,NA,NA,FALSE,FALSE,FALSE,NA,NA,NA,NA,FALSE,NA,Probable Cause,NA,H,"FI Report,",No,NA,NA
+65,2013-04-02,13:43:00,2300 Blk Of SAN PABLO AVE,37.8138792,-122.27427790000002,NA,NA,black,male,NA,NA,FALSE,TRUE,FALSE,citation,NA,NA,NA,FALSE,NA,Probable Cause,NA,B,"Citation,",No,NA,NA
+66,2013-04-02,14:05:00,100th & Macarthur Blvd,37.7458774,-122.1561102,NA,NA,white,female,NA,vehicular,FALSE,TRUE,FALSE,citation,NA,NA,NA,FALSE,NA,Traffic Violation,NA,W,"Citation,",No,NA,NA
+67,2013-04-02,14:06:00,1000 Blk Of 24th St,37.81645719999999,-122.28022620000002,NA,NA,black,male,NA,NA,FALSE,TRUE,FALSE,citation,NA,NA,NA,FALSE,NA,Probable Cause,NA,B,"Citation,",No,NA,NA
+68,2013-04-02,14:15:00,7TH ST & CHESTER ST ST,37.80562020000001,-122.2959994,NA,NA,asian/pacific islander,male,NA,vehicular,FALSE,TRUE,FALSE,citation,NA,NA,NA,FALSE,NA,Traffic Violation,NA,A,"Citation,",No,NA,NA
+69,2013-04-02,14:44:00,7600 Blk International,37.7581533,-122.1847939,NA,NA,black,male,NA,vehicular,FALSE,TRUE,FALSE,citation,NA,NA,NA,FALSE,NA,Traffic Violation,NA,B,"Citation,",No,NA,NA
+70,2013-04-02,15:00:00,22N D ST&MARTIN LUTHER KING JR WY,37.811828799999994,-122.2729236,NA,NA,black,female,NA,vehicular,FALSE,TRUE,FALSE,citation,NA,NA,NA,FALSE,NA,Traffic Violation,NA,B,"Citation,",No,NA,NA
+71,2013-04-02,15:16:00,100th Ave & Walnut St,37.7433872,-122.16692379999999,NA,NA,black,male,NA,NA,TRUE,FALSE,FALSE,arrest,FALSE,FALSE,FALSE,TRUE,probable cause,Probable Cause,NA,B,"Misdemeanor Arrest,",Yes,"Weapons,",NA
+72,2013-04-02,15:20:00,1400  81st Ave,37.7561458,-122.18055700000001,NA,NA,black,female,NA,vehicular,TRUE,FALSE,FALSE,arrest,FALSE,FALSE,FALSE,TRUE,other,Traffic Violation,NA,B,"Misdemeanor Arrest,",Yes,"Incident to Arrest,",NA
+73,2013-04-02,15:33:00,92nd Ave And Walnut St,37.74973230000001,-122.1715565,NA,NA,hispanic,male,NA,NA,FALSE,FALSE,FALSE,NA,FALSE,FALSE,FALSE,TRUE,probable cause,Probable Cause,NA,H,"FI Report,",Yes,"Weapons,",NA
+74|75,2013-04-02,15:36:00,7340 INTERNATIONAL BLVD,37.759128999999994,-122.1860902,NA,NA,black,male,NA,NA,TRUE,FALSE,FALSE,arrest,FALSE,FALSE,FALSE,TRUE,other,Probable Cause|Reasonable Suspicion,NA,B,"Felony Arrest,|Misdemeanor Arrest,",Yes,"Incident to Arrest,",NA
+76,2013-04-02,15:37:00,1647 8TH ST,37.8071804,-122.298875,NA,NA,other,male,NA,NA,TRUE,FALSE,FALSE,arrest,NA,NA,NA,FALSE,NA,Reasonable Suspicion,NA,O,"Misdemeanor Arrest,",No,NA,NA
+77,2013-04-02,16:14:00,566 Hegenberger Rd,37.745021799999996,-122.1956676,NA,NA,black,male,NA,NA,FALSE,TRUE,FALSE,citation,NA,NA,NA,FALSE,NA,Probable Cause,NA,B,"Citation,",No,NA,NA
+78,2013-04-02,17:18:00,5040 International Blvd,37.769497200000004,-122.2079685,NA,NA,hispanic,male,NA,NA,FALSE,TRUE,FALSE,citation,FALSE,FALSE,FALSE,TRUE,other,Probable Cause,NA,H,"Citation,",Yes,"Prob./Parole,",NA
+79,2013-04-02,17:25:00,AUSEON AV&OLIVE ST,37.7554375,-122.16954790000001,NA,NA,hispanic,male,NA,NA,FALSE,FALSE,FALSE,NA,FALSE,FALSE,FALSE,TRUE,probable cause,Probable Cause,NA,H,"FI Report,",Yes,"Weapons,",NA
+80,2013-04-02,17:42:00,Havenscourt And International Blvd,37.7619885,-122.192902,NA,NA,hispanic,male,NA,vehicular,FALSE,TRUE,FALSE,citation,NA,NA,NA,FALSE,NA,Traffic Violation,NA,H,"Citation,",No,NA,NA
+81,2013-04-02,18:26:00,5300 Block Of International Bl,37.768412,-122.20542900000001,NA,NA,hispanic,male,NA,vehicular,FALSE,TRUE,FALSE,citation,NA,NA,NA,FALSE,NA,Traffic Violation,NA,H,"Citation,",No,NA,NA
+82,2013-04-02,19:34:00,50th Av & International Bl,37.7695326,-122.2087481,NA,NA,black,female,NA,vehicular,FALSE,TRUE,FALSE,citation,NA,NA,NA,FALSE,NA,Traffic Violation,NA,B,"Citation,",No,NA,NA
+83,2013-04-02,19:46:00,281 SANTA CLARA AVE,37.8163248,-122.2500123,NA,NA,black,male,NA,NA,FALSE,FALSE,FALSE,NA,NA,NA,NA,FALSE,NA,Reasonable Suspicion,NA,B,"FI Report,",No,NA,NA
+84,2013-04-02,20:00:00,502 LEWIS ST,37.8050477,-122.2982591,NA,NA,black,male,NA,NA,TRUE,FALSE,FALSE,arrest,FALSE,FALSE,FALSE,TRUE,other,Reasonable Suspicion,NA,B,"Felony Arrest,",Yes,"Incident to Arrest,",NA
+85,2013-04-02,20:31:00,5040 International Blvd,37.769497200000004,-122.2079685,NA,NA,black,male,NA,NA,FALSE,FALSE,FALSE,NA,FALSE,FALSE,FALSE,TRUE,other,Probable Cause,NA,B,"FI Report,",Yes,"Prob./Parole,",NA
+86,2013-04-02,20:32:00,7520 Ney Ave,37.76907449999999,-122.16917240000002,NA,NA,black,male,NA,NA,FALSE,FALSE,FALSE,NA,FALSE,FALSE,FALSE,TRUE,probable cause,Probable Cause,NA,B,"FI Report,",Yes,"Weapons,",NA
+87,2013-04-02,20:38:00,6638 Macarthur Blvd,37.7724535,-122.1769332,NA,NA,hispanic,male,NA,NA,FALSE,FALSE,FALSE,NA,NA,NA,NA,FALSE,NA,Reasonable Suspicion,NA,H,"FI Report,",No,NA,NA
+88,2013-04-02,20:42:00,IFO 690 30TH ST,37.8199347,-122.2720093,NA,NA,black,male,NA,NA,TRUE,FALSE,FALSE,arrest,FALSE,FALSE,FALSE,TRUE,other,Probable Cause,NA,B,"Felony Arrest,",Yes,"Incident to Arrest,",NA
+89,2013-04-02,20:50:00,2000 SAN PABLO AV,37.810526200000005,-122.2728767,NA,NA,black,male,NA,vehicular,FALSE,FALSE,FALSE,NA,NA,NA,NA,FALSE,NA,Traffic Violation,NA,B,"FI Report,",No,NA,NA
+90,2013-04-02,21:00:00,ISABELLA & ST ST,37.81467670000001,-122.2760779,NA,NA,black,male,NA,vehicular,FALSE,FALSE,FALSE,NA,FALSE,FALSE,FALSE,TRUE,other,Traffic Violation,NA,B,"FI Report,",Yes,"Prob./Parole,",NA
+91,2013-04-02,21:23:00,600 Blk 40th St.,37.82974859999999,-122.26790449999999,NA,NA,black,male,NA,vehicular,FALSE,FALSE,TRUE,warning,NA,NA,NA,FALSE,NA,Traffic Violation,NA,B,"Warning,",No,NA,NA
+92,2013-04-02,21:41:00,2100 SAN PABLO AV,37.8115377,-122.2735165,NA,NA,black,male,NA,vehicular,FALSE,FALSE,FALSE,NA,NA,NA,NA,FALSE,NA,Traffic Violation,NA,B,"FI Report,",No,NA,NA
+93,2013-04-02,21:53:00,34T H ST&TELEGRAPH AV,37.822487200000005,-122.2662485,NA,NA,black,male,NA,NA,FALSE,FALSE,FALSE,NA,NA,NA,NA,FALSE,NA,Reasonable Suspicion,NA,B,"FI Report,",No,NA,NA
+38,2013-04-02,00:22:00,46T H AV&INTERNATIONAL BLVD,37.7708236,-122.2117557,NA,NA,black,male,NA,NA,FALSE,FALSE,FALSE,NA,NA,NA,NA,FALSE,NA,Probable Cause,NA,B,"FI Report,",No,NA,NA
+94,2013-04-02,22:29:00,DERBY AV&INTERNATIONAL BLVD,37.7782831,-122.22723490000001,NA,NA,hispanic,male,NA,vehicular,FALSE,TRUE,FALSE,citation,NA,NA,NA,FALSE,NA,Traffic Violation,NA,H,"Citation,",No,NA,NA
+95,2013-04-02,23:14:00,7th St And Mandela Pkwy,37.80499229999999,-122.2936344,NA,NA,black,male,NA,vehicular,FALSE,FALSE,TRUE,warning,NA,NA,NA,FALSE,NA,Traffic Violation,NA,B,"Warning,",No,NA,NA
+40,2013-04-02,02:33:00,15TH ST&21ST AV,37.810217,-122.27296799999999,NA,NA,black,female,NA,vehicular,FALSE,TRUE,FALSE,citation,NA,NA,NA,FALSE,NA,Traffic Violation,NA,B,"Citation,",No,NA,NA
+96,2013-04-02,23:45:00,1218 97TH AV,37.7435958,-122.17371399999999,NA,NA,black,male,NA,NA,TRUE,FALSE,FALSE,arrest,FALSE,FALSE,FALSE,TRUE,other,Probable Cause,NA,B,"Felony Arrest,",Yes,"Incident to Arrest,",NA
+39,2013-04-02,00:27:00,2900 UNION ST,37.821562,-122.28379699999999,NA,NA,black,male,NA,vehicular,FALSE,FALSE,FALSE,NA,FALSE,FALSE,FALSE,TRUE,other,Traffic Violation,NA,B,"FI Report,",Yes,"Prob./Parole,",NA
+41,2013-04-02,03:40:00,3900 INTERNATIONAL BLVD,37.7744112,-122.21863229999998,NA,NA,hispanic,male,NA,NA,FALSE,FALSE,FALSE,NA,NA,NA,NA,FALSE,NA,Reasonable Suspicion,NA,H,"FI Report,",No,NA,NA
+42,2013-04-02,03:58:00,1616 19TH AV,37.788388700000006,-122.23898829999999,NA,NA,asian/pacific islander,male,NA,NA,FALSE,FALSE,FALSE,NA,NA,NA,NA,FALSE,NA,Reasonable Suspicion,NA,A,"FI Report,",No,NA,NA
+43,2013-04-02,07:39:00,16TH ST & POPLAR ST ST,37.8117714,-122.28874809999999,NA,NA,black,male,NA,vehicular,FALSE,TRUE,FALSE,citation,NA,NA,NA,FALSE,NA,Traffic Violation,NA,B,"Citation,",No,NA,NA
+44,2013-04-02,08:20:00,62nd Ave And Camden,37.7736741,-122.18343109999999,NA,NA,black,female,NA,vehicular,FALSE,FALSE,FALSE,NA,NA,NA,NA,FALSE,NA,Traffic Violation,NA,B,"FI Report,",No,NA,NA
+45,2013-04-02,08:30:00,6500 MACARTHUR BLVD,37.773109600000005,-122.17864740000002,NA,NA,black,male,NA,vehicular,FALSE,FALSE,TRUE,warning,NA,NA,NA,FALSE,NA,Traffic Violation,NA,B,"Warning,",No,NA,NA
+46,2013-04-02,08:55:00,8400 EDGEWATER DR,37.7389999,-122.19890430000001,NA,NA,black,male,NA,NA,FALSE,TRUE,FALSE,citation,NA,NA,NA,FALSE,NA,Probable Cause,NA,B,"Citation,",No,NA,NA
+47,2013-04-02,09:20:00,3100 Blk Of FILBERT ST,37.8219391,-122.2779939,NA,NA,hispanic,male,NA,NA,TRUE,FALSE,FALSE,arrest,FALSE,FALSE,FALSE,TRUE,other,Probable Cause,NA,H,"Felony Arrest,",Yes,"Incident to Arrest,",NA
+123,2013-04-03,10:02:00,90T H &BANCROFT AV AV,37.7461708,-122.16035520000001,NA,NA,hispanic,female,NA,vehicular,FALSE,FALSE,FALSE,NA,NA,NA,NA,FALSE,NA,Traffic Violation,NA,H,"FI Report,",No,NA,NA
+124,2013-04-03,10:13:00,82ND AVE & MACARTHUR BLVD,37.7626847,-122.1648942,NA,NA,black,female,NA,vehicular,FALSE,TRUE,FALSE,citation,NA,NA,NA,FALSE,NA,Traffic Violation,NA,B,"Citation,",No,NA,NA
+125,2013-04-03,10:15:00,8200blk MacArthur,37.7628757,-122.16481409999999,NA,NA,black,female,NA,vehicular,FALSE,TRUE,FALSE,citation,NA,NA,NA,FALSE,NA,Traffic Violation,NA,B,"Citation,",No,NA,NA
