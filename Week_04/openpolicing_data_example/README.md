@@ -2,7 +2,8 @@
 
 In this directory:
 
-1. `ca_oakland_2020_04_01_SHORT.csv`
-    - **A small excerpt of data from a much larger set,** shortened for technical teaching purposes.
-1. `Simple Data Processing With Stanford Open Policing Project Data.ipynb`
-    - A Jupyter notebook showing simple data processing.
+|file|description|
+|:-|:-|
+|`BuiltInCsvReaderDemo.ipynb`|A Jupyter notebook showing simple data processing using Python's built-in `csv` and external `matplotlib`|
+|`PandasDemo.ipynb`|A Jupyter notebook showing simple data processing using the `Pandas` library|
+|`ca_oakland_2020_04_01_SHORT.csv`|A small excerpt of data from a much larger set, shortened for technical teaching purposes|
