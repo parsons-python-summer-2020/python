@@ -13,10 +13,10 @@
   - Conversion and comprehension
 
 - [Class code](https://github.com/parsons-python-summer-2020/python/tree/master/Week_04/class_code)
-  - Franzi's code
-  > TK TK TK
-  - Sohee's code
-  > TK TK TK
+  - NYT Bestsellers 
+  > comparing bestseller list changes over time through sets
+  - NYT Top Articles
+  > pulling specific article information from a dictionary of article data
 
 - [Exercises](https://github.com/parsons-python-summer-2020/python/tree/master/Week_04/exercises)
   - Analyzing New York Times article comments
