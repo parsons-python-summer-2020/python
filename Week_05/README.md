@@ -21,7 +21,7 @@
 
 - [Exercises](https://github.com/parsons-python-summer-2020/python/tree/master/Week_05/Class%20Exercise)
   - Create a Student Class: In this execise, you will be making a basic class implementation and have opportunity to work on expand it in various ways as part of an open ended challenge section.
-  - Creating an Iterable Class Example
+  - Creating an Iterable Black-Owned Brooklyn Businesses Class: In this exercise, you will go through a step by step process of turning a custom class into an iterable class
 ---
 
 #### Helpful links
