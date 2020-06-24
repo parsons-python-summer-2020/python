@@ -3,6 +3,7 @@
 #### Topics
 - Class and Libraries with Jason
 - Inheritance and Iterators with Karen
+- Face Blur with Fifi
 ---
 
 #### Repo Directory
@@ -17,9 +18,16 @@
   > The basic implementation of a class that handles numbers and enables special mathematical functions
   - Inheritance Live Code Example
   > The basic implementation of inheritance
+  - Iterators & Iterables Breakdown
+  > An in-depth look at how Iterators & Iterable objects work in Python
+  - Generators Breakdown
+  > An in-depth look at how Generator Functions & Generator Expressions work
+  - Creating an Iterable Class Example
+  > A basic implementation of creating our own custom iterable classes
 
 - [Exercises](https://github.com/parsons-python-summer-2020/python/tree/master/Week_05/Class%20Exercise)
   - Create a Student Class Exercise
+  - 
 ---
 
 #### Helpful links
