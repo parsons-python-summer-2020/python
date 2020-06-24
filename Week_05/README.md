@@ -7,10 +7,6 @@
 ---
 
 #### Repo Directory
-- 
-  - String basics 
-  - List and tuple basics
-
 - [Class code](https://github.com/parsons-python-summer-2020/python/tree/master/Week_05/Class%20Lecture%20Notebook)
   - Class Breakdown
   > An in-depth look at how Class is implemented in Python with breakdowns for how each part works
