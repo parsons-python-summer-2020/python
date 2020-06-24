@@ -18,11 +18,12 @@
   > An in-depth look at how Iterators & Iterable objects work in Python
   - Generators Breakdown
   > An in-depth look at how Generator Functions & Generator Expressions work
- 
+  - Creating an Iterable Class Example
+  > A basic implementation of creating our own custom iterable classes
 
 - [Exercises](https://github.com/parsons-python-summer-2020/python/tree/master/Week_05/Class%20Exercise)
-  - Create a Student Class Exercise
-  - Creating an Iterable Class Example
+  - Create a Student Class: In this execise, you will be making a basic class implementation and have opportunity to work on expand it in various ways as part of an open ended challenge section.
+  - 
 ---
 
 #### Helpful links
