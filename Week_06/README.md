@@ -6,11 +6,11 @@
 ---
 
 #### Repo Directory
-- [Class code](https://github.com/parsons-python-summer-2020/python/tree/master/Week_05/Class%20Lecture%20Notebook)
+- [Class code]
   - Twitter API
   > A basic twitter bot using Tweepy that lets us interface with twitter.
   - Automation Example 
-  > This set of code 
+  > This set of code will demonstrate some basic automations that can be done with os and time
 - [Exercises]
   - No exercises this week but definitely try out some of the code for yourself. APIs and Automation are never standard. Your use cases are going to be specialized! Experiment with what you can do and just try it out.
 ---
