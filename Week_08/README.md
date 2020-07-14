@@ -1,9 +1,8 @@
 ## Week VIII: Text Manipulation, Data Scraping, and Reg Ex
 
 #### Topics
-- Data scraping with Shirley 
-- Text manipulation with Lan and Anna 
-- Regex (Regular Expressions) with Karen 
+- Data scraping, with Shirley 
+- Word math, with Lan and Anna 
 ---
 
 #### Repo Directory
