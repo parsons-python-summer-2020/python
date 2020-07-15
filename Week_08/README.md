@@ -15,7 +15,6 @@
 - [HTML Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
 - [CSS Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics) 
 - [More about Scraping - Sam Lavigne](https://scrapism.lav.io/web-scraping-basics/) 
-- 
 
 ---
 
