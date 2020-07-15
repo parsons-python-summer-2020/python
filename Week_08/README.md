@@ -2,7 +2,8 @@
 
 #### Topics
 - Data scraping, with Shirley 
-- Word math, with Lan and Anna 
+- Regular Expression, with Anna 
+- Word Embeddings and Word2Vec, with Lan
 ---
 
 #### Repo Directory
