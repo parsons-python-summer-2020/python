@@ -74,7 +74,7 @@ while True:
             label = "{}: {:.2f}%".format(CLASSES[idx], confidence * 100)
             y = top - 15 if top - 15 > 15 else top + 15
             cv2.putText(frame, label, (left, y),
-            cv2.FONT_HERSHEY_SIMPLEX, 0.5, COLORS[idx], 2)
+                cv2.FONT_HERSHEY_SIMPLEX, 0.5, COLORS[idx], 2)
 
     # show the output frame
     cv2.imshow("Frame", frame)
