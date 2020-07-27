@@ -13,7 +13,7 @@ import cv2
 
 # load trained model and text description of the network architecture (prototxt file)
 prototxt = "/home/pi/python/Week_09/real-time-object-detection/MobileNetSSD_deploy.prototxt.txt"
-model = "/home/pi/python/Week_09/real-time-object-detection/MobileNetSSD_deploy.caffemodel.txt"
+model = "/home/pi/python/Week_09/real-time-object-detection/MobileNetSSD_deploy.caffemodel"
 # use opencv's Deep Neural Network module to read the model in
 net = cv2.dnn.readNetFromCaffe(prototxt, model)
 
