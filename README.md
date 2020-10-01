@@ -1,4 +1,4 @@
-# Summer Python 2020
+###  Great Summer Python Platform 2020
 
 ## Weekly Sessions 
 * Wednesday: 6:30pm-9:00pm EST 
@@ -18,6 +18,8 @@
 * Basics: String, List & Tuples
 * Basics: Sets & Dictionaries
 * Basics: Iterator & Class
+* Introduction to OOP in Python
+* Introduction to Python data Structures
 * Automation, APIs
 * Data visualization 
 * Text manipulation, Data scraping, Regular Expression
